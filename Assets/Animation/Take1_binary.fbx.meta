@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: e494b69c265565348a6d7a75aef250aa
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 7140164145223568829
+    second: Take1
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take1' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'TranLe_Spine1' has translation animation that will
+      be discarded.\n\t'TranLe_Head' has translation animation that will be discarded.\n\t'TranLe_LeftHand'
+      has translation animation that will be discarded.\n\t'TranLe_RightHand' has
+      translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: TranLe_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TranLe_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Take1_binary(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_Hips
+      parentName: Take1_binary(Clone)
+      position: {x: -0.000000029802322, y: 0.7118418, z: 0}
+      rotation: {x: -0.37081864, y: 0.1030904, z: -0.006225013, w: 0.92294484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_Spine
+      parentName: TranLe_Hips
+      position: {x: -0, y: 0.07118638, z: 0}
+      rotation: {x: 0.23579617, y: -0.007738201, z: 0.034882378, w: 0.9711455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_Spine1
+      parentName: TranLe_Spine
+      position: {x: -0, y: 0.19261797, z: 0.0000001213956}
+      rotation: {x: 0.18216495, y: -0.0025782457, z: 0.027595147, w: 0.9828773}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_Neck
+      parentName: TranLe_Spine1
+      position: {x: -0, y: 0.23978366, z: 0.021798512}
+      rotation: {x: 0.0996492, y: -0.030020272, z: -0.004780192, w: 0.9945582}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_Head
+      parentName: TranLe_Neck
+      position: {x: -0, y: 0.11132675, z: -0.01590389}
+      rotation: {x: -0.1685648, y: -0.018164197, z: 0.09199414, w: 0.9812202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftShoulder
+      parentName: TranLe_Spine1
+      position: {x: -0.034648716, y: 0.22726244, z: -0.0010929704}
+      rotation: {x: 0.06280859, y: 0.08818636, z: 0.008057354, w: 0.9940892}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftArm
+      parentName: TranLe_LeftShoulder
+      position: {x: -0.09308936, y: 0, z: 0}
+      rotation: {x: 0.41680285, y: -0.08852751, z: 0.032377236, w: 0.9040962}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftForeArm
+      parentName: TranLe_LeftArm
+      position: {x: -0.26163942, y: 0, z: 0}
+      rotation: {x: 0.05696594, y: 0.004930816, z: -0.008253033, w: 0.9983298}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftHand
+      parentName: TranLe_LeftForeArm
+      position: {x: -0.22183931, y: 0, z: 0.00000020861626}
+      rotation: {x: 0.059784953, y: -0.07365494, z: -0.06306831, w: 0.9934904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightShoulder
+      parentName: TranLe_Spine1
+      position: {x: 0.034789324, y: 0.22726244, z: -0.0010929704}
+      rotation: {x: 0.03600542, y: -0.1116843, z: -0.002631224, w: 0.99308777}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightArm
+      parentName: TranLe_RightShoulder
+      position: {x: 0.09308936, y: 0, z: 0}
+      rotation: {x: 0.44174376, y: 0.07342858, z: -0.06646666, w: 0.8916574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightForeArm
+      parentName: TranLe_RightArm
+      position: {x: 0.26163942, y: 0, z: 0}
+      rotation: {x: -0.028300464, y: -0.013161324, z: 0.012026204, w: 0.9994405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightHand
+      parentName: TranLe_RightForeArm
+      position: {x: 0.22887558, y: 0, z: 0.000000059604645}
+      rotation: {x: -0.026169041, y: -0.038524643, z: 0.12968054, w: 0.9904615}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftUpLeg
+      parentName: TranLe_Hips
+      position: {x: -0.08681265, y: 0, z: 0}
+      rotation: {x: 0.20460823, y: -0.080527835, z: -0.0007157605, w: 0.9755257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftLeg
+      parentName: TranLe_LeftUpLeg
+      position: {x: -0, y: -0.30536985, z: 0}
+      rotation: {x: 0.30863187, y: -0.061318643, z: -0.023116292, w: 0.94892156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftFoot
+      parentName: TranLe_LeftLeg
+      position: {x: -0, y: -0.36538866, z: 0}
+      rotation: {x: 0.015172508, y: 0.046904255, z: 0.090254456, w: 0.99469787}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_LeftToeBase
+      parentName: TranLe_LeftFoot
+      position: {x: -0, y: -0.05642822, z: 0.130219}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightUpLeg
+      parentName: TranLe_Hips
+      position: {x: 0.08681265, y: 0, z: 0}
+      rotation: {x: 0.1925986, y: 0.07033263, z: 0.09525329, w: 0.97410774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightLeg
+      parentName: TranLe_RightUpLeg
+      position: {x: -0, y: -0.30536985, z: 0}
+      rotation: {x: 0.31763047, y: 0.018748077, z: -0.03204187, w: 0.9474876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightFoot
+      parentName: TranLe_RightLeg
+      position: {x: -0, y: -0.36538866, z: 0}
+      rotation: {x: -0.25647318, y: -0.07676729, z: -0.18543981, w: 0.9454843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TranLe_RightToeBase
+      parentName: TranLe_RightFoot
+      position: {x: -0, y: -0.05642822, z: 0.130219}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

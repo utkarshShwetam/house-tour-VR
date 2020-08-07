@@ -1,0 +1,2 @@
+# house-tour-VR
+ A VR application that takes you to a virtual house where we can interact and explore the house.Basically explores you into a real-life room of a house where we can interact with the different objects that are placed in the scene and navigate through teleportation to explore the environment.It also includes virtual characters named Sophia with whom we can interact in the scene so that we can get real life immersion.
